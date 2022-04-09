@@ -1,0 +1,46 @@
+.banksection{
+    padding: 50px 60px;
+    height: 350px;
+}
+
+.banksection h1{
+    font-size: 60px;
+
+}
+
+.banksection p{
+    color: #000000;
+    font-size: 25px;
+}
+.banksection .leftSection{
+    float: left;
+}
+
+.banksection .leftSection .reqbtn{
+    font-size: 18px;
+}
+
+.banksection .leftSection .reqbtn:hover{
+    text-decoration: underline;
+}
+
+.banksection .leftSection .reqbtn a{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.623);
+    font-weight: bold;
+}
+
+.banksection .leftSection .paraSec{
+    width: 500px;
+}
+
+.banksection .headLogo{
+    float: right;
+}
+
+.banksection .headLogo img{
+    width: 500px;
+    height: 120px;
+    margin-right: 100px;
+    margin-top: 60px;
+}
