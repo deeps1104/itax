@@ -1,3 +1,13 @@
+# Screenshot Output
+
+![](https://github.com/deeps1104/itax/blob/master/screenshot/screen-3.PNG?raw=true)
+
+![](https://github.com/deeps1104/itax/blob/master/screenshot/screen-4.PNG?raw=true)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
